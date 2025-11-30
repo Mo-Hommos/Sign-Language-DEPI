@@ -1,9 +1,9 @@
 # ✋🤖 Arabic Sign Language Translator — DEPI Project  
-Real-time Arabic Sign Language → Text Translation using MediaPipe + Machine Learning + Streamlit
+Real-time Arabic Sign Language → Text Translation using MediaPipe + Machine Learning
 
 ## 🚀 Overview  
 This project delivers a full end-to-end real-time system that allows Arabic Sign Language (ArSL) users to communicate effortlessly through AI-powered sign recognition.  
-The app uses a webcam feed, extracts hand landmarks using MediaPipe, classifies static signs using a trained ML model, and outputs the recognized Arabic text on a Streamlit interface.
+The app uses a webcam feed, extracts hand landmarks using MediaPipe, classifies static signs using a trained ML model.
 
 ## 🎯 Key Features  
 - 🔴 Real-time webcam capture (Streamlit)  
@@ -33,7 +33,7 @@ Additional augmentation applied to enhance lighting, angle, and background robus
 - ✔️ Stable real-time prediction for 30+ minutes  
 
 ## 🏛 System Architecture  
-**Webcam Input → MediaPipe Hands → Landmark Preprocessing → ML Classifier → Text Output → Streamlit UI**
+**Webcam Input → MediaPipe Hands → Landmark Preprocessing → ML Classifier → Text Output**
 
 Components include:  
 - Webcam capture  
