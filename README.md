@@ -44,11 +44,10 @@ Components include:
 - Optional admin panel for model retraining  
 
 ## 📘 Deliverables  
-- Streamlit web app  
 - Trained sign classification model  
 - Data preprocessing + training scripts  
 - Technical documentation  
-- Demo video link (if included)  
+- Demo video link
 
 ## 🌱 Future Enhancements  
 - Dynamic sign recognition (continuous sequences)  
