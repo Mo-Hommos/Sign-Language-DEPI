@@ -15,7 +15,6 @@ The app uses a webcam feed, extracts hand landmarks using MediaPipe, classifies 
 
 ## 📦 Tech Stack  
 - **Python 3.10+**  
-- **Streamlit**  
 - **MediaPipe Hands**  
 - **TensorFlow / PyTorch**  
 - **OpenCV**  
